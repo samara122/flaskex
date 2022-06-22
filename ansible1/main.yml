@@ -1,0 +1,3 @@
+task:
+  - name: simple
+    echo: "hello world"
